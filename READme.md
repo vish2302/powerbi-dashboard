@@ -109,13 +109,3 @@ This dashboard helps management:
 - Profitability Analysis
 - Automated Data Refresh
 
----
-
-## 👨‍💻 Author
-
-Himanshu Malakar
-
-Aspiring Data Analyst | Power BI Developer
-
-GitHub:
-https://github.com/sainihimanshu01
